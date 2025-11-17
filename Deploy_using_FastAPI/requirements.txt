@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pillow
+numpy
+passlib[bcrypt]
+requests
+streamlit
+nest-asyncio
+pyngrok
+matplotlib
+protobuf==3.20.3
